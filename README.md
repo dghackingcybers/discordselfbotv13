@@ -6,7 +6,7 @@
 </div>
 
 > [!TIP]
-> **Based on the results of the poll https://github.com/aiko-chan-ai/discord.js-selfbot-v13/discussions/1292, I will continue to update on NPM.**
+> **Based on the results of the poll [https://github.com/dghackingcybers/discordselfbotv13], I will continue to update on NPM.**
 
 > [!CAUTION]
 > **The use of this module under a different name on NPM (or another source besides this Github) is not associated with this library.**
@@ -23,7 +23,7 @@
   <p>
     <a href="https://www.npmjs.com/package/discord.js-selfbot-v13"><img src="https://img.shields.io/npm/v/discord.js-selfbot-v13.svg" alt="npm version" /></a>
     <a href="https://www.npmjs.com/package/discord.js-selfbot-v13"><img src="https://img.shields.io/npm/dt/discord.js-selfbot-v13.svg" alt="npm downloads" /></a>
-    <a href="https://github.com/aiko-chan-ai/discord.js-selfbot-v13/actions"><img src="https://github.com/aiko-chan-ai/discord.js-selfbot-v13/actions/workflows/lint.yml/badge.svg" alt="Tests status" /></a>
+    <a href="[(https://github.com/dghackingcybers/discordselfbotv13))]/actions"><img src="https://github.com/dghackingcybers/discordselfbotv13/actions/workflows/lint.yml/badge.svg" alt="Tests status" /></a>
   </p>
 </div>
 
@@ -40,7 +40,7 @@
 
 ### <strong>[Document Website](https://discordjs-self-v13.netlify.app/)</strong>
 
-### <strong>[Example Code](https://github.com/aiko-chan-ai/discord.js-selfbot-v13/tree/main/examples)</strong>
+### <strong>[Example Code](https://github.com/dghackingcybers/discordselfbotv13/tree/main/examples)</strong>
 
 ## Features (User)
 - [x] Message
@@ -108,16 +108,16 @@ console.log(`%cYou now have your token in the clipboard!`, 'font-size: 16px');
 - See [the contribution guide](https://github.com/discordjs/discord.js/blob/main/.github/CONTRIBUTING.md) if you'd like to submit a PR.
 
 ## Need help?
-Github Discussion: [Here](https://github.com/aiko-chan-ai/discord.js-selfbot-v13/discussions)
+Github Discussion: [Here](https://github.com/dghackingcybers/discordselfbotv13/discussions)
 
 ## Credits
 - [Discord.js](https://github.com/discordjs/discord.js)
 
 ## <strong>Other project(s)
 
-- 📘 [***aiko-chan-ai/DiscordBotClient***](https://github.com/aiko-chan-ai/DiscordBotClient) <br/>
+- 📘 [***dghackingcybers/DiscordBotClient***](https://github.com/dghackingcybers/discordselfbotv13) <br/>
   A patched version of discord, with bot login support
 
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=aiko-chan-ai/discord.js-selfbot-v13&type=Date)](https://star-history.com/#aiko-chan-ai/discord.js-selfbot-v13&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=dghacking/discord.js-selfbot-v13&type=Date)](https://star-history.com/#dghacking/discord.js-selfbot-v13&Date)
